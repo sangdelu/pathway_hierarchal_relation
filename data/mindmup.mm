@@ -1,0 +1,1 @@
+<map version="0.7.1"><node ID="root" TEXT="Sinal&#x20;transduction"><node ID="1" TEXT="1640170CellCycle"><node ID="2" TEXT="69278CellCycleMitotic"></node><node ID="3" TEXT="68886MPhase"></node></node><node ID="4" TEXT="68877MitoticPrometaphase"><node ID="5" TEXT="2500257ResolutionofSisterChromatidCohesion"></node></node></node></map>
